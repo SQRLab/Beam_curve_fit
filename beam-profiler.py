@@ -1,5 +1,7 @@
 # coding: utf-8
 # In[ ]:
+# Reference: https://gist.github.com/carmelom/4dd407d307b2fb1dc99b017835ce8432
+
 import numpy as np
 from PIL import Image
 
