@@ -8,7 +8,7 @@ from scipy.optimize import curve_fit
 import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("name", type=str, help="image name")
-parser.add_argument("-l", "--pix-len", type=float, help="camera pixel size [m]", default="5.2e-6")
+parser.add_argument("-l", "--pix-len", type=float, help="camera pixel size [m]", default="4.84e-6") #1800U 500m pixel size is 2.2 * 2.2
 parser.add_argument("-p", "--pow", type=float, help="Total beam power [W]",)
 
 parser.add_argument("--no-plot", action="store_true",
