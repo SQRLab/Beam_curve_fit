@@ -1,4 +1,4 @@
-# Explaining the other codes:
+# Explaining codes:
 
 ## gaussianbeam_characterization
 This code reads a folder then plots the characterization
