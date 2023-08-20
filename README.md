@@ -14,7 +14,8 @@ An example:
 ## gaussianbeam_characterization
 This code reads a folder then plots all the measurments (image data) to then characterize the beam.   
 FILE NAME FORMAT:  
-![Screenshot 2023-08-20 062510](https://github.com/mayradiaz5/beam_curve_fit/assets/115504456/115f966f-11e4-4de9-ab13-bb08cd20a5ca)
+![Screenshot 2023-08-20 062510](https://github.com/mayradiaz5/beam_curve_fit/assets/115504456/115f966f-11e4-4de9-ab13-bb08cd20a5ca)  
+
 Important to keep this format as it gets the distance from the name.    
 Example of images:  
 ![Screenshot 2023-08-20 071450](https://github.com/mayradiaz5/beam_curve_fit/assets/115504456/7962fc42-af73-45b6-92e9-44563354ffa3)
