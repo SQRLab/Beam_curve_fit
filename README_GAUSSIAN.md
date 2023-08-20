@@ -39,7 +39,7 @@ Data Table inluded:
 Data table not included:  
 ![no_datatable](https://github.com/mayradiaz5/beam_curve_fit/assets/115504456/c78a8704-f59a-4eb3-b72f-6648a095b0f7)
 
-##centered_wasit_characterization
+## centered_wasit_characterization
 This code is similat to gaussianbeam_characterization just includes a plot that is centered at z=0.  
 
 ![twoplot](https://github.com/mayradiaz5/beam_curve_fit/assets/115504456/872f7f4b-647d-46fb-bcd0-2907657465aa)
