@@ -12,10 +12,10 @@ An example:
 ![Figure_1](https://user-images.githubusercontent.com/56214423/233503605-e3978eb2-1e4e-484b-9f3e-afbe243cff04.png)
 
 ## gaussianbeam_characterization
-This code reads a folder then plots all the measurments (image data) to then characterize the beam. 
-FILE NAME FORMAT: 
+This code reads a folder then plots all the measurments (image data) to then characterize the beam.   
+FILE NAME FORMAT:  
 ![Screenshot 2023-08-20 062510](https://github.com/mayradiaz5/beam_curve_fit/assets/115504456/115f966f-11e4-4de9-ab13-bb08cd20a5ca)
-Important to keep this format as it gets the distance from the name.
+Important to keep this format as it gets the distance from the name.  
 Example of images:
 
 
@@ -24,14 +24,14 @@ Plot:
 
 
 ## comparing_gaussianbeam_characterization
-This code reads multiple folders for each laser. (In here it is the 375, 397, and 422nm lasers)
+This code reads multiple folders for each laser. (In here it is the 375, 397, and 422nm lasers)  
 FILE NAME FORMAT:
 ![Screenshot 2023-08-20 062510](https://github.com/mayradiaz5/beam_curve_fit/assets/115504456/115f966f-11e4-4de9-ab13-bb08cd20a5ca)
 
-Then, is able to get the waist of the beam at the loction that each image was taken and plot it to characterize the beams for all the folders.
-(This one being three diffrent folders for the 3 lasers)
-*Store folders in the same location as the code.
-Can commentsection and make chamges to include data table for not. 
+Then, is able to get the waist of the beam at the loction that each image was taken and plot it to characterize the beams for all the folders.  
+(This one being three diffrent folders for the 3 lasers)  
+*Store folders in the same location as the code.  
+Can commentsection and make chamges to include data table for not.   
 Data Table inluded:
 ![data_table_included](https://github.com/mayradiaz5/beam_curve_fit/assets/115504456/dcccec4b-3e2b-4d92-9577-082a28a5d4ff)
 
