@@ -31,7 +31,6 @@ Plot:
 This code reads multiple folders for each laser. (In here it is the 375, 397, and 422nm lasers)  
 >[!NOTE]
 >FILE NAME FORMAT:  
-
 ![Screenshot 2023-08-20 062510](https://github.com/mayradiaz5/beam_curve_fit/assets/115504456/115f966f-11e4-4de9-ab13-bb08cd20a5ca)  
 
 Then, is able to get the waist of the beam at the loction that each image was taken and plot it to characterize the beams for all the folders.  
