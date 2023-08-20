@@ -33,7 +33,9 @@ Then, is able to get the waist of the beam at the loction that each image was ta
 *Store folders in the same location as the code.
 Can commentsection and make chamges to include data table for not. 
 Data Table inluded:
- ![data_table_included](https://github.com/mayradiaz5/beam_curve_fit/assets/115504456/22220529-8d55-4ba3-8408-20ede2a9ee4a)
+![data_table_included](https://github.com/mayradiaz5/beam_curve_fit/assets/115504456/dcccec4b-3e2b-4d92-9577-082a28a5d4ff)
+
 Data table not included:
-![no_datatable](https://github.com/mayradiaz5/beam_curve_fit/assets/115504456/b220fcff-9793-478c-9ce4-49069ede09e8)
+![no_datatable](https://github.com/mayradiaz5/beam_curve_fit/assets/115504456/c78a8704-f59a-4eb3-b72f-6648a095b0f7)
+
 
