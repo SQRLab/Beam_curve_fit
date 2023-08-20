@@ -118,12 +118,12 @@ curve_fit2 =np.linspace(min(x3),max(x3), 1000)
 ax1.scatter(x3,diameter_3, color = 'c', label = '{}'.format(name3) )
 
 #curve fitting plot and labels
-ax1.plot(curvefitting, y_1, color = 'm', label = '{}'.format(name1), linewidth = 3) #,popt1[0], popt1[2]))
-ax1.plot(curve_fit1,y_2, color = 'b', label = '{}'.format(name2), linewidth = 3) # \n w\u2080 {:.3f} \n z\u2080 {:.3f}  '.format(name2,popt2[0], popt2[2]))
-ax1.plot(curve_fit2, y_3, color = 'c', label = '{}'.format(name3), linewidth = 3)
-ax1.set_title('Gaussian Beam Waist Comparison', fontsize = 20)
-ax1.set_xlabel('z position (mm)',fontsize= 15)
-ax1.set_ylabel('beam waist ($\mu$m)', fontsize = 15)
+ax1.plot(curvefitting, y_1, color = 'm', label = '{}'.format(name1), linewidth = 2) #,popt1[0], popt1[2]))
+ax1.plot(curve_fit1,y_2, color = 'b', label = '{}'.format(name2), linewidth = 2) # \n w\u2080 {:.3f} \n z\u2080 {:.3f}  '.format(name2,popt2[0], popt2[2]))
+ax1.plot(curve_fit2, y_3, color = 'c', label = '{}'.format(name3), linewidth = 2)
+ax1.set_title('Gaussian Beam Waist Comparison', fontsize = 18)
+ax1.set_xlabel('z position (mm)',fontsize= 14)
+ax1.set_ylabel('beam waist ($\mu$m)', fontsize = 14)
 ax1.legend()
 
 
