@@ -1,7 +1,7 @@
 # Explaining codes:
 
 
-## beam_curve_fit (Beam Profiler)
+## beam_curve_fit (beam-profiler)
 This code is can do beam curve fitting with an image of the beam. 
 supported_formats = ['.tif', '.tiff', '.pgm', '.ppm']
 
